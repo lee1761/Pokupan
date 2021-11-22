@@ -1,0 +1,600 @@
+fileFormatVersion: 2
+guid: 6f1d8567d6cc3034fb2cb860d44b6b75
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6513808664684484025
+    second: Pokupan_Tutorial Sprites_0
+  - first:
+      213: 6706736297995571294
+    second: Pokupan_Tutorial Sprites_1
+  - first:
+      213: 8390839920920133295
+    second: Pokupan_Tutorial Sprites_2
+  - first:
+      213: -8063249650969982126
+    second: Pokupan_Tutorial Sprites_3
+  - first:
+      213: 6328946284735266138
+    second: Pokupan_Tutorial Sprites_4
+  - first:
+      213: 3505058735466136268
+    second: Pokupan_Tutorial Sprites_5
+  - first:
+      213: -7282304002480357234
+    second: Pokupan_Tutorial Sprites_6
+  - first:
+      213: 6483939112990266447
+    second: Pokupan_Tutorial Sprites_7
+  - first:
+      213: 6636791507473999802
+    second: Pokupan_Tutorial Sprites_8
+  - first:
+      213: 3884079987514689881
+    second: Pokupan_Tutorial Sprites_9
+  - first:
+      213: -7929023192955475800
+    second: Pokupan_Tutorial Sprites_10
+  - first:
+      213: 3627758436465276305
+    second: Pokupan_Tutorial Sprites_11
+  - first:
+      213: -2054461257848793712
+    second: Pokupan_Tutorial Sprites_12
+  - first:
+      213: -8728037601151690212
+    second: Pokupan_Tutorial Sprites_13
+  - first:
+      213: 5563303673250170527
+    second: Pokupan_Tutorial Sprites_14
+  - first:
+      213: -6147626753543209086
+    second: Pokupan_Tutorial Sprites_15
+  - first:
+      213: -6546106761877187709
+    second: Pokupan_Tutorial Sprites_16
+  - first:
+      213: -1862199734182473703
+    second: Pokupan_Tutorial Sprites_17
+  - first:
+      213: 7185932968901656331
+    second: Pokupan_Tutorial Sprites_18
+  - first:
+      213: -2864099966340673050
+    second: Pokupan_Tutorial Sprites_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pokupan_Tutorial Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 85
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74aae96f78d4a95a0800000000000000
+      internalID: -6513808664684484025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokupan_Tutorial Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 85
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e509e34112d131d50800000000000000
+      internalID: 6706736297995571294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokupan_Tutorial Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 85
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae7c959370427470800000000000000
+      internalID: 8390839920920133295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokupan_Tutorial Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 85
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b44a2d925991090800000000000000
+      internalID: -8063249650969982126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokupan_Tutorial Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 85
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d7c202d1fe4d750800000000000000
+      internalID: 6328946284735266138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokupan_Tutorial Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 85
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2c65c695874a030800000000000000
+      internalID: 3505058735466136268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokupan_Tutorial Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 80
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80c0c1d71f00fa90800000000000000
+      internalID: -7282304002480357234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokupan_Tutorial Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 80
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44db0715449bf950800000000000000
+      internalID: 6483939112990266447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokupan_Tutorial Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 80
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7215b76be9a1c50800000000000000
+      internalID: 6636791507473999802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokupan_Tutorial Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 80
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959440f7b2607e530800000000000000
+      internalID: 3884079987514689881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokupan_Tutorial Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 57
+        width: 110
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a82e007a6376f190800000000000000
+      internalID: -7929023192955475800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokupan_Tutorial Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 50
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1957078c313685230800000000000000
+      internalID: 3627758436465276305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokupan_Tutorial Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 60
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095de19fe561d73e0800000000000000
+      internalID: -2054461257848793712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokupan_Tutorial Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 30
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ad91d7b08cfd680800000000000000
+      internalID: -8728037601151690212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokupan_Tutorial Sprites_14
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 30
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96c3b51733d43d40800000000000000
+      internalID: 5563303673250170527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokupan_Tutorial Sprites_15
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 30
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f7e570a0e3faaa0800000000000000
+      internalID: -6147626753543209086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokupan_Tutorial Sprites_16
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 30
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3831784359e8725a0800000000000000
+      internalID: -6546106761877187709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokupan_Tutorial Sprites_17
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 30
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9101a3745332826e0800000000000000
+      internalID: -1862199734182473703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokupan_Tutorial Sprites_18
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 30
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0fb62766ff89b360800000000000000
+      internalID: 7185932968901656331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokupan_Tutorial Sprites_19
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2
+        width: 110
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e15e09514ca048d0800000000000000
+      internalID: -2864099966340673050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 166977100c55e4145aa2c04453d60513
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
